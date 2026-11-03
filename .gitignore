@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.ruff_cache/
+.kilo/
+www/httptest/
+httpd.log
+*.pdf
+*.ipynb
